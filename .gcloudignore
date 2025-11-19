@@ -1,0 +1,10 @@
+*.env*
+*deploy*
+*.pyc
+.gcloudignore
+*.bat
+set_env.py
+build_env.py
+*.md
+*.git
+.gitignore
