@@ -38,6 +38,12 @@ The steps to use it are as follows:
 Once the service is created you don't need to use build_and_deploy_callback.py when you make changes in the code, to deploy your changes you can use
 deploy.py
 
+# Useful local executable Python scripts
+build_and_deploy_callback.py (Use this script to deploy the code to Google Cloud for the first time)
+
+deploy.py (Use this to deploy the function when you make updates to the code)
+
+# Links of interest
 Linkedin API documentation:
 
 https://learn.microsoft.com/en-us/linkedin/
